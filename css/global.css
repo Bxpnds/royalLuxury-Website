@@ -1,0 +1,59 @@
+/* black -#000000
+navy - #14213D
+gold - #FCA311  (accent)
+light gray - #E5E5E5
+white = #FFFFFF */
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+/*---COLORS---- 
+black -#000000
+navy - #14213D
+gold - #FCA311  (accent)
+light gray - #E5E5E5
+white = #FFFFFF 
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-black {
+    background-color: #000;
+}
+
+.bg-navy {
+    background-color: #14213D;
+}
+
+.bg-accent {
+    background-color: #FCA311;
+}
+
+.bg-lightGray {
+    background-color: #E5E5E5;
+}
+
+.txt-black {
+    color: #000;
+}
+
+.txt-navy {
+    color: #14213D;
+}
+
+.txt-accent {
+    color: #F48C06;
+}
+.txt-accent a{
+    color: #F48C06;
+}
+
+.txt-lightGray {
+    color: #E5E5E5;
+}
